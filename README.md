@@ -1,3 +1,4 @@
 # tp2-unqui-uml
 
-![Diagrama UML Ejercicio 2 TP2](https://github.com/user-attachments/assets/d5f3096f-2fcc-4d6c-9040-81b56ba1d947)
+
+![Diagrama UML Ejercicio 2 TP2](https://github.com/user-attachments/assets/0de97ad6-2747-4ea0-a4fe-625c84c873f7)
